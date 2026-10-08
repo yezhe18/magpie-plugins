@@ -1,0 +1,10 @@
+{
+  "name": "antseed-magpie-plugin",
+  "version": "0.1.0",
+  "description": "A local AntSeed buyer proxy provider for Magpie, with stable automatic model routes.",
+  "type": "module",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": { "test": "node --test test/plugin.test.mjs" },
+  "files": ["index.js", "README.md", "LICENSE"]
+}
