@@ -1,0 +1,10 @@
+{
+  "name": "freellmapi-magpie-plugin",
+  "version": "0.1.0",
+  "description": "Expose a running FreeLLMAPI router to Magpie with readiness-aware model discovery.",
+  "type": "module",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": { "test": "node --test test/plugin.test.mjs" },
+  "files": ["index.js", "README.md", "LICENSE"]
+}
